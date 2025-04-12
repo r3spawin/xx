@@ -30,7 +30,7 @@ if ( isset($_GET['ok']) )
 ?>
     <html>
     <head>
-    <title>Upload Auto - by  r3k444</title> 
+    <title>Upload Auto - by  inj3ct0r</title> 
     </head>
     <body style="background-image: url('http://i.imgur.com/zHNCk2e.gif'); background-repeat: repeat; background-position: center; background-attachment: fixed;">
      
@@ -230,9 +230,9 @@ if ( isset($_GET['ok']) )
     </table>
     <br /><br />
     <font face="Audiowide" color="red" size="2">
-    Coded by: <font color="white">inj3ct0r</font> <font color="white">|</font> Skype: <font color="white"><a href="Skype:inj3ct0r">inj3ct0r</a></font><br /><br />
+    Coded by: <font color="white">Inj3ct0r</font> <font color="white">|</font> Skype: <font color="white"><a href="Skype:inj3ct0r">inj3ct0r</a></font><br /><br />
     <br > <font color="green">For more tools/scripts/exploits/etc.</font>
-    <br />visit <a href="http://inj3ct0r.net" target="_blank" style="text-decoration: none;">www.inj3ct0r.net</a>
+    <br />visit <a href="http://inj3ct0r.net" target="_blank" style="text-decoration: none;">www.inj3ct0r.com</a>
     </font>
      
     </center>
